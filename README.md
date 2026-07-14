@@ -14,3 +14,6 @@
       <img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/cd6bf2c8-ffba-4213-9bb0-d12f41010e3b" />
 9.	Umbenennen der curl.php Datei in curl.php_old
 10.	Hochladen der neuen curl.php Datei
+11.	Einloggen Wordpress Backend und prüfen der Saison-Einstellung
+
+Falls du Fragen hast oder diese Schritte nicht selbst ausführen möchtest, hilft dir it@swissunihockey.ch gerne weiter.
