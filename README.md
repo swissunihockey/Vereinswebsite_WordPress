@@ -7,6 +7,7 @@
 3.	Navigation zu public_html/*deineDomain*/wp-content/themes/wp-setup/dist/js
       <img width="498" height="221" alt="image" src="https://github.com/user-attachments/assets/7787667d-51cd-4bc4-b37e-568f249fd719" />
 4.	Umbenennen der bestehenden Dateien als Backup
+
       functions.min.js --> functions.min.js_old
   
       functions.min.js.map --> functions.min.js.map_old
