@@ -1,5 +1,5 @@
 # Vereinswebsite_WordPress
-Config-Files WordPress
+
 **Anpassen Vereinswebsite WordPress für API-Änderung**
 
 1.    Herunterladen der drei Dateien von GitHub
