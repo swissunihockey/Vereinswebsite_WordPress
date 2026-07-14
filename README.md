@@ -8,6 +8,7 @@
       <img width="498" height="221" alt="image" src="https://github.com/user-attachments/assets/7787667d-51cd-4bc4-b37e-568f249fd719" />
 5.   	Umbenennen der bestehenden Dateien als Backup
       functions.min.js --> functions.min.js_old
+  
       functions.min.js.map --> functions.min.js.map_old
 7.   	Hochladen der beiden neuen Dateien (functions.min.js und functions.min.js.map) in dieses Verzeichnis
 8.   	Navigieren zu public_html/*deineDomain*/wp-content/themes/wp-setup/functions
