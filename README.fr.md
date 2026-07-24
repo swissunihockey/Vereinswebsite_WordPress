@@ -2,7 +2,7 @@
 
 🌍 **Langues / Sprachen**
 
-🇫🇷 Français (README.fr.md) | 🇩🇪 Deutsch (README.md)
+🇫🇷 Français | 🇩🇪 <a href="README.md">Deutsch</a>
 
 </div>
 
