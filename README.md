@@ -1,3 +1,11 @@
+<div align="right">
+
+🌍 **Langues / Sprachen**
+
+🇩🇪 Deutsch (README.md) | 🇫🇷 Français (README.fr.md)
+
+</div>
+
 # Vereinswebsite_WordPress
 
 **Anpassen Vereinswebsite WordPress für API-Änderung**
